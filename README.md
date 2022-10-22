@@ -1,1 +1,2 @@
 # ZIHAD-DARK
+cd zihaddark
