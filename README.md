@@ -1,2 +1,2 @@
 # ZIHAD-DARK
-cd zihaddark
+cd mehedidark
